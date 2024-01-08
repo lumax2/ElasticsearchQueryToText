@@ -3,7 +3,7 @@
 *.pyo
 __pycache__/
 *.py[cod]
-song.json
+song1.json
 
 # Virtual environments
 venv/
