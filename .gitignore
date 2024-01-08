@@ -1,0 +1,25 @@
+# Python-specific
+*.pyc
+*.pyo
+__pycache__/
+*.py[cod]
+song.json
+
+# Virtual environments
+venv/
+env/
+env.bak/
+env1/
+env2/
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency management
+pip-selfcheck.json
+pip-wheel-metadata/
+requirements.txt
